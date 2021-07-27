@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @egemenkar
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning React JS & Java
 
 
 <!---
