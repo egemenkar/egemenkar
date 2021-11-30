@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hi, I'm Egemen</h1>
 
-<h4 align="left">👀  I’m interested in front-end development.</h3>
+<h4 align="left">👀  I’m mostly interested in front-end development. Also I've developed some full stack apps, too.</h3>
 
 <h4 align="left">⚡ I truly love coding and l am always open to learning new skills and programming languages.</h3>
 
-<h4 align="left">🌱  I’m currently learning React JS & Vanilla JavaScript</h3>
+<h4 align="left">🌱  I’m currently learning React JS & Node JS</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
