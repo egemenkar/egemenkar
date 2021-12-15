@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Egemen</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate web developer from Turkey</h3>
 
 - 🌱 I’m currently learning **React JS & Node JS**
 
