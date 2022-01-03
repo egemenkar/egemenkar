@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Egemen</h1>
 <h3 align="center">A passionate web developer from Turkey</h3>
 
-- 🌱 I’m currently learning **React JS & Node JS**
+- 🌱 I’m currently learning **Node.js, TypeScript, and AWS DynamoDB**
 
 - 💬 Ask me about **anything related React & JavaScript**
 
