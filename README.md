@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Egemen</h1>
 <h3 align="center">A passionate web developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Node.js, TypeScript, and AWS DynamoDB**
+- 🌱 I’m currently learning **Node.js, TypeScript, and AWS DynamoDB** on A101 Patika.Dev Bootcamp
 
 - 💬 Ask me about **anything related React & JavaScript**
 
