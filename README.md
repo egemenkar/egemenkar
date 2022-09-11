@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Egemen</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently working as FrontEnd Developer (**Vue.js** | Vuetify | Tailwind | Nuxt | Graphql )
 
 - 💬 Ask me about **anything related Vue.js, React & Node.js**
 
