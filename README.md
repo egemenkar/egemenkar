@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **anything related Vue.js, React & Node.js**
 
-- Also on [gitlab.com/egemen.kar](https://gitlab.com/egemen.kar)
+- ⭐ Also on [gitlab.com/egemen.kar](https://gitlab.com/egemen.kar)
 
 - 📫 How to reach me **egemenkar@gmail.com**
 
