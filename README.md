@@ -5,7 +5,7 @@ I’m Egemen, a Senior Frontend Developer passionate about building modern, scal
 ## ✨ About Me
 
 - **Location**: Istanbul, Türkiye
-- **Current Role**: Head of Frontend @ [Despatch Cloud](https://despatchcloud.com/)
+- **Current Role**: Head of Frontend @ [The Despatch Company]((https://thedespatchcompany.com/))
 - **Focus**: Building modern applications with JavaScript frameworks, mostly with Vue.js and Nuxt. Also with React/React Native.
 - **Note**: Mostly using Bitbucket | This GitHub is for personal projects
 
